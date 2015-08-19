@@ -1,0 +1,13 @@
+playVersion
+compile
+reload
+compile
+run
+playVersion
+clean
+compile
+run
+reload
+update
+compile
+run
